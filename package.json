@@ -1,0 +1,29 @@
+{
+  "name": "nomada_api",
+  "description": "",
+  "version": "1.0.0",
+  "main": "server.ts",
+  "scripts": {
+    "dev": "ts-node-dev src/server.ts",
+    "build": "tsc",
+    "start": "node dist/server.js",
+    "sequelize": "sequelize"
+  },
+  "keywords": [],
+  "author": "Lucas García",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/express": "5.0.0",
+    "@types/node": "^22.10.6",
+    "sequelize-cli": "^6.6.2",
+    "ts-node-dev": "2.0.0",
+    "typescript": "5.7.3"
+  },
+  "dependencies": {
+    "express": "4.21.2",
+    "pg": "^8.13.1",
+    "reflect-metadata": "^0.2.2",
+    "sequelize": "^6.37.5",
+    "sequelize-typescript": "^2.1.6"
+  }
+}

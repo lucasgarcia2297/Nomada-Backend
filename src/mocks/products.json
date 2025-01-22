@@ -1,0 +1,740 @@
+[
+  {
+    "id": "001",
+    "name": "Camiseta Retro",
+    "category": "Camisetas",
+    "price": 5500,
+    "sizes_available": [
+      "S",
+      "M",
+      "L"
+    ],
+    "colors_available": [
+      "Blanco",
+      "Negro"
+    ],
+    "material": "Algodón",
+    "brand": "VintageX",
+    "gender": "Hombre",
+    "style": "Casual",
+    "season": "Verano",
+    "rating": null,
+    "number_of_reviews": 0,
+    "release_date": "2024-01-15",
+    "discount": 0.05,
+    "stock": 5,
+    "sold": 10,
+    "tags": [
+      "retro",
+      "verano",
+      "algodón"
+    ],
+    "images": [
+      "ST1-ARTIC-DIMENSION-BACK-BEIGE-BACK-6533c0b838680.webp",
+      "url_imagen2.jpg"
+    ],
+    "description": "Esta camiseta retro es perfecta para los amantes de la moda vintage. Confeccionada en algodón suave, ofrece comodidad y estilo en los días de verano. Su diseño clásico y colores neutros la hacen ideal para combinar con cualquier atuendo casual. ¡No te pierdas la oportunidad de añadir esta pieza única a tu colección!"
+  },
+  {
+    "id": "002",
+    "name": "Vestido Vintage Floral",
+    "category": "Vestidos",
+    "price": 6500,
+    "sizes_available": [
+      "XS",
+      "S",
+      "M"
+    ],
+    "colors_available": [
+      "Rojo",
+      "Verde"
+    ],
+    "material": "Poliéster",
+    "brand": "VintageY",
+    "gender": "Mujer",
+    "style": "Elegante",
+    "season": "Primavera",
+    "rating": 4.7,
+    "number_of_reviews": 5,
+    "release_date": "2024-02-10",
+    "discount": 0.1,
+    "stock": 3,
+    "sold": 15,
+    "tags": [
+      "floral",
+      "primavera",
+      "elegante"
+    ],
+    "images": [
+      "default-image.png",
+      "url_imagen2.jpg"
+    ],
+    "description": "Este vestido vintage floral es la elección perfecta para cualquier ocasión especial. Su diseño elegante y femenino, combinado con un estampado floral vibrante, te hará destacar en cualquier evento. Confeccionado en poliéster de alta calidad, garantiza comodidad y durabilidad. ¡Hazte con este vestido y deslumbra con tu estilo único!"
+  },
+  {
+    "id": "003",
+    "name": "Chaqueta Denim",
+    "category": "Chaquetas",
+    "price": 70000,
+    "sizes_available": [
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors_available": [
+      "Azul"
+    ],
+    "material": "Denim",
+    "brand": "VintageZ",
+    "gender": "Hombre",
+    "style": "Casual",
+    "season": "Otoño",
+    "rating": null,
+    "number_of_reviews": 0,
+    "release_date": "2024-03-05",
+    "discount": 0.15,
+    "stock": 2,
+    "sold": 5,
+    "tags": [
+      "denim",
+      "otoño",
+      "casual"
+    ],
+    "images": [
+      "default-image.png",
+      "url_imagen2.jpg"
+    ],
+    "description": "La chaqueta denim es un clásico atemporal que nunca pasa de moda. Perfecta para el otoño, esta chaqueta ofrece un estilo casual y desenfadado. Confeccionada en denim de alta calidad, es resistente y duradera. ¡Añade esta pieza esencial a tu guardarropa y disfruta de su versatilidad!"
+  },
+  {
+    "id": "004",
+    "name": "Falda Plisada",
+    "category": "Faldas",
+    "price": 35000,
+    "sizes_available": [
+      "S",
+      "M",
+      "L"
+    ],
+    "colors_available": [
+      "Negro",
+      "Gris"
+    ],
+    "material": "Seda",
+    "brand": "VintageA",
+    "gender": "Mujer",
+    "style": "Elegante",
+    "season": "Invierno",
+    "rating": 4.3,
+    "number_of_reviews": 3,
+    "release_date": "2024-01-20",
+    "discount": 0.2,
+    "stock": 4,
+    "sold": 8,
+    "tags": [
+      "plisada",
+      "invierno",
+      "elegante"
+    ],
+    "images": [
+      "default-image.png",
+      "url_imagen2.jpg"
+    ],
+    "description": "Esta falda plisada de seda es la prenda perfecta para añadir un toque de elegancia a tu atuendo de invierno. Su diseño sofisticado y su material de alta calidad te harán sentir cómoda y con estilo. Ideal para combinar con blusas y suéteres, esta falda es una adición imprescindible a tu colección de ropa vintage."
+  },
+  {
+    "id": "005",
+    "name": "Suéter Vintage",
+    "category": "Suéteres",
+    "price": 50000,
+    "sizes_available": [
+      "L",
+      "XL"
+    ],
+    "colors_available": [
+      "Marrón",
+      "Beige"
+    ],
+    "material": "Lana",
+    "brand": "VintageB",
+    "gender": "Hombre",
+    "style": "Casual",
+    "season": "Invierno",
+    "rating": null,
+    "number_of_reviews": 0,
+    "release_date": "2024-02-25",
+    "discount": 0.1,
+    "stock": 6,
+    "sold": 12,
+    "tags": [
+      "suéter",
+      "invierno",
+      "lana"
+    ],
+    "images": [
+      "default-image.png",
+      "url_imagen2.jpg"
+    ],
+    "description": "Este suéter vintage de lana es perfecto para mantenerte abrigado durante los fríos días de invierno. Su diseño clásico y colores neutros lo hacen ideal para cualquier ocasión casual. Confeccionado en lana de alta calidad, ofrece calidez y comodidad. ¡No te pierdas la oportunidad de añadir este suéter a tu colección!"
+  },
+  {
+    "id": "006",
+    "name": "Blusa Retro",
+    "category": "Blusas",
+    "price": 28999,
+    "sizes_available": [
+      "S",
+      "M"
+    ],
+    "colors_available": [
+      "Blanco",
+      "Azul"
+    ],
+    "material": "Algodón",
+    "brand": "VintageC",
+    "gender": "Mujer",
+    "style": "Casual",
+    "season": "Verano",
+    "rating": 4,
+    "number_of_reviews": 2,
+    "release_date": "2024-03-15",
+    "discount": 0.05,
+    "stock": 5,
+    "sold": 10,
+    "tags": [
+      "blusa",
+      "verano",
+      "algodón"
+    ],
+    "images": [
+      "default-image.png",
+      "url_imagen2.jpg"
+    ],
+    "description": "La blusa retro es una prenda versátil y elegante que no puede faltar en tu guardarropa. Confeccionada en algodón suave, es perfecta para los días de verano. Su diseño clásico y colores vibrantes la hacen ideal para combinar con faldas y pantalones. ¡Añade un toque de estilo vintage a tu look con esta blusa única!"
+  },
+  {
+    "id": "007",
+    "name": "Pantalones Vintage",
+    "category": "Pantalones",
+    "price": 40000,
+    "sizes_available": [
+      "M",
+      "L"
+    ],
+    "colors_available": [
+      "Negro",
+      "Gris"
+    ],
+    "material": "Lino",
+    "brand": "VintageD",
+    "gender": "Hombre",
+    "style": "Formal",
+    "season": "Primavera",
+    "rating": null,
+    "number_of_reviews": 0,
+    "release_date": "2024-04-10",
+    "discount": 0.1,
+    "stock": 3,
+    "sold": 7,
+    "tags": [
+      "pantalones",
+      "primavera",
+      "formal"
+    ],
+    "images": [
+      "default-image.png",
+      "url_imagen2.jpg"
+    ],
+    "description": "Estos pantalones vintage de lino son la elección perfecta para un look formal y elegante. Confeccionados en lino de alta calidad, ofrecen comodidad y frescura durante la primavera. Su diseño clásico y colores neutros los hacen ideales para combinar con camisas y blazers. ¡Añade un toque de sofisticación a tu guardarropa con estos pantalones únicos!"
+  },
+  {
+    "id": "008",
+    "name": "Abrigo Vintage",
+    "category": "Abrigos",
+    "price": 80000,
+    "sizes_available": [
+      "M",
+      "L"
+    ],
+    "colors_available": [
+      "Negro",
+      "Rojo"
+    ],
+    "material": "Lana",
+    "brand": "VintageE",
+    "gender": "Mujer",
+    "style": "Elegante",
+    "season": "Invierno",
+    "rating": 4.5,
+    "number_of_reviews": 4,
+    "release_date": "2024-01-05",
+    "discount": 0.2,
+    "stock": 2,
+    "sold": 5,
+    "tags": [
+      "abrigo",
+      "invierno",
+      "elegante"
+    ],
+    "images": [
+      "default-image.png",
+      "url_imagen2.jpg"
+    ],
+    "description": "Este abrigo vintage de lana es la prenda perfecta para mantenerte abrigada con estilo durante el invierno. Su diseño elegante y colores vibrantes te harán destacar en cualquier ocasión. Confeccionado en lana de alta calidad, ofrece calidez y comodidad. ¡No te pierdas la oportunidad de añadir este abrigo a tu colección y lucir espectacular!"
+  },
+  {
+    "id": "009",
+    "name": "Camisa Vintage",
+    "category": "Camisas",
+    "price": 35000,
+    "sizes_available": [
+      "S",
+      "M",
+      "L"
+    ],
+    "colors_available": [
+      "Blanco",
+      "Azul"
+    ],
+    "material": "Algodón",
+    "brand": "VintageF",
+    "gender": "Hombre",
+    "style": "Casual",
+    "season": "Verano",
+    "rating": null,
+    "number_of_reviews": 0,
+    "release_date": "2024-02-20",
+    "discount": 0.1,
+    "stock": 4,
+    "sold": 8,
+    "tags": [
+      "camisa",
+      "verano",
+      "algodón"
+    ],
+    "images": [
+      "default-image.png",
+      "url_imagen2.jpg"
+    ],
+    "description": "La camisa vintage de algodón es una prenda esencial para los días de verano. Su diseño clásico y colores frescos la hacen ideal para cualquier ocasión casual. Confeccionada en algodón suave, ofrece comodidad y estilo. ¡Añade esta camisa a tu guardarropa y disfruta de su versatilidad y elegancia!"
+  },
+  {
+    "id": "010",
+    "name": "Falda Vintage",
+    "category": "Faldas",
+    "price": 30000,
+    "sizes_available": [
+      "S",
+      "M"
+    ],
+    "colors_available": [
+      "Negro",
+      "Rojo"
+    ],
+    "material": "Poliéster",
+    "brand": "VintageG",
+    "gender": "Mujer",
+    "style": "Casual",
+    "season": "Primavera",
+    "rating": 4.2,
+    "number_of_reviews": 1,
+    "release_date": "2024-03-01",
+    "discount": 0.1,
+    "stock": 3,
+    "sold": 6,
+    "tags": [
+      "falda",
+      "primavera",
+      "casual"
+    ],
+    "images": [
+      "default-image.png",
+      "url_imagen2.jpg"
+    ],
+    "description": "Esta falda vintage de poliéster es perfecta para añadir un toque de estilo a tu atuendo de primavera. Su diseño clásico y colores vibrantes la hacen ideal para combinar con blusas y suéteres. Confeccionada en poliéster de alta calidad, ofrece comodidad y durabilidad. ¡No te pierdas la oportunidad de añadir esta falda a tu colección y lucir espectacular!"
+  },
+  {
+    "id": "011",
+    "name": "Chaleco Vintage",
+    "category": "Chalecos",
+    "price": 45000,
+    "sizes_available": [
+      "M",
+      "L"
+    ],
+    "colors_available": [
+      "Marrón",
+      "Beige"
+    ],
+    "material": "Lana",
+    "brand": "VintageH",
+    "gender": "Hombre",
+    "style": "Casual",
+    "season": "Otoño",
+    "rating": null,
+    "number_of_reviews": 0,
+    "release_date": "2024-04-01",
+    "discount": 0.1,
+    "stock": 3,
+    "sold": 5,
+    "tags": [
+      "chaleco",
+      "otoño",
+      "casual"
+    ],
+    "images": [
+      "default-image.png",
+      "url_imagen2.jpg"
+    ],
+    "description": "El chaleco vintage de lana es una prenda versátil y elegante que no puede faltar en tu guardarropa. Perfecto para el otoño, este chaleco ofrece un estilo casual y desenfadado. Confeccionado en lana de alta calidad, es resistente y duradero. ¡Añade este chaleco a tu colección y disfruta de su versatilidad y estilo!"
+  },
+  {
+    "id": "012",
+    "name": "Blazer Vintage",
+    "category": "Blazers",
+    "price": 60000,
+    "sizes_available": [
+      "S",
+      "M",
+      "L"
+    ],
+    "colors_available": [
+      "Negro",
+      "Gris"
+    ],
+    "material": "Lana",
+    "brand": "VintageI",
+    "gender": "Mujer",
+    "style": "Formal",
+    "season": "Invierno",
+    "rating": 4.6,
+    "number_of_reviews": 3,
+    "release_date": "2024-02-15",
+    "discount": 0.15,
+    "stock": 2,
+    "sold": 4,
+    "tags": [
+      "blazer",
+      "invierno",
+      "formal"
+    ],
+    "images": [
+      "default-image.png",
+      "url_imagen2.jpg"
+    ],
+    "description": "Este blazer vintage de lana es la prenda perfecta para un look formal y elegante. Confeccionado en lana de alta calidad, ofrece calidez y comodidad durante el invierno. Su diseño clásico y colores neutros lo hacen ideal para combinar con pantalones y faldas. ¡Añade un toque de sofisticación a tu guardarropa con este blazer único!"
+  },
+  {
+    "id": "013",
+    "name": "Pantalones de Pana",
+    "category": "Pantalones",
+    "price": 50000,
+    "sizes_available": [
+      "M",
+      "L"
+    ],
+    "colors_available": [
+      "Marrón",
+      "Verde"
+    ],
+    "material": "Pana",
+    "brand": "VintageJ",
+    "gender": "Hombre",
+    "style": "Casual",
+    "season": "Invierno",
+    "rating": null,
+    "number_of_reviews": 0,
+    "release_date": "2024-03-10",
+    "discount": 0.1,
+    "stock": 4,
+    "sold": 6,
+    "tags": [
+      "pana",
+      "invierno",
+      "casual"
+    ],
+    "images": [
+      "default-image.png",
+      "url_imagen2.jpg"
+    ],
+    "description": "Estos pantalones de pana son la elección perfecta para un look casual y cómodo durante el invierno. Confeccionados en pana de alta calidad, ofrecen calidez y durabilidad. Su diseño clásico y colores neutros los hacen ideales para combinar con suéteres y camisas. ¡Añade estos pantalones a tu colección y disfruta de su estilo y comodidad!"
+  },
+  {
+    "id": "014",
+    "name": "Falda de Cuero",
+    "category": "Faldas",
+    "price": 70000,
+    "sizes_available": [
+      "S",
+      "M"
+    ],
+    "colors_available": [
+      "Negro"
+    ],
+    "material": "Cuero",
+    "brand": "VintageK",
+    "gender": "Mujer",
+    "style": "Elegante",
+    "season": "Otoño",
+    "rating": 4.8,
+    "number_of_reviews": 2,
+    "release_date": "2024-01-25",
+    "discount": 0.2,
+    "stock": 1,
+    "sold": 3,
+    "tags": [
+      "cuero",
+      "otoño",
+      "elegante"
+    ],
+    "images": [
+      "default-image.png",
+      "url_imagen2.jpg"
+    ],
+    "description": "Esta falda de cuero es la prenda perfecta para añadir un toque de elegancia y sofisticación a tu atuendo de otoño. Confeccionada en cuero de alta calidad, ofrece durabilidad y estilo. Su diseño clásico y color negro la hacen ideal para combinar con blusas y suéteres. ¡No te pierdas la oportunidad de añadir esta falda a tu colección y lucir espectacular!"
+  },
+  {
+    "id": "015",
+    "name": "Camisa de Seda",
+    "category": "Camisas",
+    "price": 55000,
+    "sizes_available": [
+      "M",
+      "L"
+    ],
+    "colors_available": [
+      "Blanco",
+      "Azul"
+    ],
+    "material": "Seda",
+    "brand": "VintageL",
+    "gender": "Hombre",
+    "style": "Formal",
+    "season": "Primavera",
+    "rating": null,
+    "number_of_reviews": 0,
+    "release_date": "2024-04-05",
+    "discount": 0.1,
+    "stock": 3,
+    "sold": 5,
+    "tags": [
+      "seda",
+      "primavera",
+      "formal"
+    ],
+    "images": [
+      "default-image.png",
+      "url_imagen2.jpg"
+    ],
+    "description": "Esta camisa de seda es la prenda perfecta para un look formal y sofisticado. Confeccionada en seda de alta calidad, ofrece una sensación suave y lujosa. Su diseño clásico y colores neutros la hacen ideal para combinar con pantalones y blazers. ¡Añade un toque de elegancia a tu guardarropa con esta camisa única!"
+  },
+  {
+    "id": "016",
+    "name": "Vestido de Encaje",
+    "category": "Vestidos",
+    "price": 65000,
+    "sizes_available": [
+      "S",
+      "M"
+    ],
+    "colors_available": [
+      "Blanco",
+      "Rosa"
+    ],
+    "material": "Encaje",
+    "brand": "VintageM",
+    "gender": "Mujer",
+    "style": "Elegante",
+    "season": "Verano",
+    "rating": 4.9,
+    "number_of_reviews": 1,
+    "release_date": "2024-03-20",
+    "discount": 0.15,
+    "stock": 2,
+    "sold": 4,
+    "tags": [
+      "encaje",
+      "verano",
+      "elegante"
+    ],
+    "images": [
+      "default-image.png",
+      "url_imagen2.jpg"
+    ],
+    "description": "Este vestido de encaje es la elección perfecta para cualquier ocasión especial. Su diseño elegante y femenino, combinado con un encaje delicado, te hará destacar en cualquier evento. Confeccionado en materiales de alta calidad, garantiza comodidad y durabilidad. ¡Hazte con este vestido y deslumbra con tu estilo único!"
+  },
+  {
+    "id": "017",
+    "name": "Suéter de Lana",
+    "category": "Suéteres",
+    "price": 50000,
+    "sizes_available": [
+      "L",
+      "XL"
+    ],
+    "colors_available": [
+      "Gris",
+      "Azul"
+    ],
+    "material": "Lana",
+    "brand": "VintageN",
+    "gender": "Hombre",
+    "style": "Casual",
+    "season": "Invierno",
+    "rating": null,
+    "number_of_reviews": 0,
+    "release_date": "2024-02-28",
+    "discount": 0.1,
+    "stock": 4,
+    "sold": 6,
+    "tags": [
+      "lana",
+      "invierno",
+      "casual"
+    ],
+    "images": [
+      "default-image.png",
+      "url_imagen2.jpg"
+    ],
+    "description": "Este suéter de lana es perfecto para mantenerte abrigado durante los fríos días de invierno. Su diseño clásico y colores neutros lo hacen ideal para cualquier ocasión casual. Confeccionado en lana de alta calidad, ofrece calidez y comodidad. ¡No te pierdas la oportunidad de añadir este suéter a tu colección!"
+  },
+  {
+    "id": "018",
+    "name": "Blusa de Gasa",
+    "category": "Blusas",
+    "price": 30000,
+    "sizes_available": [
+      "S",
+      "M"
+    ],
+    "colors_available": [
+      "Blanco",
+      "Negro"
+    ],
+    "material": "Gasa",
+    "brand": "VintageO",
+    "gender": "Mujer",
+    "style": "Casual",
+    "season": "Primavera",
+    "rating": 4.4,
+    "number_of_reviews": 2,
+    "release_date": "2024-03-10",
+    "discount": 0.05,
+    "stock": 3,
+    "sold": 5,
+    "tags": [
+      "gasa",
+      "primavera",
+      "casual"
+    ],
+    "images": [
+      "default-image.png",
+      "url_imagen2.jpg"
+    ],
+    "description": "La blusa de gasa es una prenda versátil y elegante que no puede faltar en tu guardarropa. Confeccionada en gasa suave, es perfecta para los días de primavera. Su diseño clásico y colores vibrantes la hacen ideal para combinar con faldas y pantalones. ¡Añade un toque de estilo vintage a tu look con esta blusa única!"
+  },
+  {
+    "id": "019",
+    "name": "Pantalones de Cuero",
+    "category": "Pantalones",
+    "price": 70000,
+    "sizes_available": [
+      "M",
+      "L"
+    ],
+    "colors_available": [
+      "Negro"
+    ],
+    "material": "Cuero",
+    "brand": "VintageP",
+    "gender": "Hombre",
+    "style": "Elegante",
+    "season": "Otoño",
+    "rating": null,
+    "number_of_reviews": 0,
+    "release_date": "2024-04-15",
+    "discount": 0.2,
+    "stock": 2,
+    "sold": 3,
+    "tags": [
+      "cuero",
+      "otoño",
+      "elegante"
+    ],
+    "images": [
+      "default-image.png",
+      "url_imagen2.jpg"
+    ],
+    "description": "Estos pantalones de cuero son la elección perfecta para un look elegante y sofisticado. Confeccionados en cuero de alta calidad, ofrecen durabilidad y estilo. Su diseño clásico y color negro los hacen ideales para combinar con camisas y blazers. ¡Añade estos pantalones a tu colección y disfruta de su estilo y comodidad!"
+  },
+  {
+    "id": "020",
+    "name": "Abrigo de Piel",
+    "category": "Abrigos",
+    "price": 80000,
+    "sizes_available": [
+      "M",
+      "L"
+    ],
+    "colors_available": [
+      "Blanco",
+      "Negro"
+    ],
+    "material": "Piel",
+    "brand": "VintageQ",
+    "gender": "Mujer",
+    "style": "Elegante",
+    "season": "Invierno",
+    "rating": 4.7,
+    "number_of_reviews": 3,
+    "release_date": "2024-01-10",
+    "discount": 0.2,
+    "stock": 1,
+    "sold": 2,
+    "tags": [
+      "piel",
+      "invierno",
+      "elegante"
+    ],
+    "images": [
+      "default-image.png",
+      "url_imagen2.jpg"
+    ],
+    "description": "Este abrigo de piel es la prenda perfecta para mantenerte abrigada con estilo durante el invierno. Su diseño elegante y colores vibrantes te harán destacar en cualquier ocasión. Confeccionado en piel de alta calidad, ofrece calidez y comodidad. ¡No te pierdas la oportunidad de añadir este abrigo a tu colección y lucir espectacular!"
+  },
+  {
+    "id": "021",
+    "name": "Camiseta Lino",
+    "category": "Camisas",
+    "price": 55000,
+    "sizes_available": [
+      "Small",
+      "L"
+    ],
+    "colors_available": [
+      "Blanco",
+      "Negro"
+    ],
+    "material": "Algodón",
+    "brand": "VintageX",
+    "gender": "Hombre",
+    "style": "Casual",
+    "season": "Verano",
+    "rating": null,
+    "number_of_reviews": 0,
+    "release_date": "2024-01-15",
+    "discount": 0.05,
+    "stock": 5,
+    "sold": 10,
+    "tags": [
+      "retro",
+      "verano",
+      "algodón"
+    ],
+    "images": [
+      "ST1-ARTIC-DIMENSION-BACK-BEIGE-BACK-6533c0b838680.webp",
+      "url_imagen2.jpg"
+    ],
+    "description": "Esta camiseta retro es perfecta para los amantes de la moda vintage. Confeccionada en algodón suave, ofrece comodidad y estilo en los días de verano. Su diseño clásico y colores neutros la hacen ideal para combinar con cualquier atuendo casual. ¡No te pierdas la oportunidad de añadir esta pieza única a tu colección!"
+  }
+]

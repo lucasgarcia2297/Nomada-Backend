@@ -7,25 +7,25 @@
     "dev": "ts-node-dev src/server.ts",
     "build": "tsc",
     "start": "node dist/server.js",
-    "sequelize": "sequelize"
+    "migration:run": "ts-node ./node_modules/typeorm/cli.js migration:run --dataSource src/database/data-source.ts",
+    "migration:generate": "ts-node ./node_modules/typeorm/cli.js migration:generate src/database/data-source.ts --dataSource src/database/data-source.ts"
   },
   "keywords": [],
   "author": "Lucas García",
   "license": "ISC",
   "devDependencies": {
-    "@types/cors": "^2.8.17",
+    "@types/cors": "2.8.17",
     "@types/express": "5.0.0",
-    "@types/node": "^22.10.6",
-    "sequelize-cli": "^6.6.2",
+    "@types/node": "22.10.10",
     "ts-node-dev": "2.0.0",
     "typescript": "5.7.3"
   },
   "dependencies": {
-    "cors": "^2.8.5",
+    "cors": "2.8.5",
+    "dotenv": "^16.4.7",
     "express": "4.21.2",
-    "pg": "^8.13.1",
-    "reflect-metadata": "^0.2.2",
-    "sequelize": "^6.37.5",
-    "sequelize-typescript": "^2.1.6"
+    "pg": "8.13.1",
+    "reflect-metadata": "0.2.2",
+    "typeorm": "0.3.20"
   }
 }

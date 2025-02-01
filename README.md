@@ -6,12 +6,11 @@ API for the “Nómada” online store, designed to manage the necessary functio
 
 The following technologies are used in this project:
 
-- **Node.js**: JavaScript runtime built on Chrome's V8 JavaScript engine.
-- **Express**: Fast, minimalist web framework for Node.js.
-- **TypeScript**: Typed superset of JavaScript that compiles to plain JavaScript.
-- **PostgreSQL**: Powerful, open source object-relational database system.
-- **Sequelize**: Promise-based Node.js ORM for Postgres, MySQL, MariaDB, SQLite, and Microsoft SQL Server.
-
+- **Node.js**: 
+- **Express**: 
+- **TypeScript**: 
+- **PostgreSQL**: 
+- **typeORM**: 
 ## Scripts
 
 The following scripts are available to manage and run the API:
